@@ -9,3 +9,4 @@ int main()
     cin>>a>>b;
     cout<<"total"<<a+b;
     return 0;
+}
