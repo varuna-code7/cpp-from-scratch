@@ -30,7 +30,4 @@ I created this repository as a personal milestone to:
 - Build a consistent habit of pushing code and documenting my progress
 
 This is not just about programs — it is about building discipline and structure in my coding journey.
-
-
-g++ filename.cpp -o output
-./output
+THE CPP JOURNEY CONTINUE IN MY FOLLOWING REPO.
